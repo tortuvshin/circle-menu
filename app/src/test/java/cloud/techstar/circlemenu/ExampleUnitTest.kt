@@ -1,4 +1,4 @@
-package cloud.techstar.circle_menu
+package cloud.techstar.circlemenu
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package cloud.techstar.circle_menu
+package cloud.techstar.circlemenu
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

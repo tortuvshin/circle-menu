@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="cloud.techstar.circle_menu">
+    package="cloud.techstar.circlemenu">
 
     <application
         android:allowBackup="true"

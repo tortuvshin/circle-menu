@@ -1,6 +1,6 @@
 # Android Circle Menu
 
-Android Circle Menu
+CircleMenu is a simple, elegant UI menu with a circular layout and material design.
 
 How to include
 ---

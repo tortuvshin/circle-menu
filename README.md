@@ -15,7 +15,7 @@ allprojects {
 }
 
 dependencies {
-    compile 'com.github.techstar-cloud:circle-menu:v1.0.0'
+    compile 'com.github.intelligo-systems:circle-menu:v1.0.2'
 }
 ```
 
@@ -30,9 +30,9 @@ Or declare it into your `pom.xml`:
 </repositories>
 
 <dependency>
-    <groupId>com.github.techstar-cloud</groupId>
+    <groupId>com.github.intelligo-systems</groupId>
     <artifactId>circle-menu</artifactId>
-    <version>v1.0.0</version>
+    <version>v1.0.2</version>
 </dependency>
 ```
 
